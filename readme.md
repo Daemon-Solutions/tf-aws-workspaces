@@ -52,4 +52,4 @@ Variables
 Outputs
 -------
 
-- workspace_id           - the Workspace ID exported from Cloudformation stack
+- `workspace_id`         - the Workspace ID exported from Cloudformation stack
